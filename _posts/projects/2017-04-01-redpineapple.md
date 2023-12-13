@@ -1,22 +1,17 @@
 ---
 layout: project
-permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "landscape design, ongoing maintenance, carpark"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Wilson Carpark Garden Bed Upgrade"
+  type: "Landscape Design & Ongoing Maintenance"
+  location: Auckland
+  year: 2022 - Ongoing
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  programs used: "AutoCAD, Photoshop, Indesign"
 
 images:
   - image:
@@ -29,4 +24,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>This Project aims to maintain the site's amenity and improve a temporary landscape area. The temporary landscape area will be carefully created as a clean and enjoyable space for visitors.</p>
