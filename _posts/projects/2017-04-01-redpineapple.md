@@ -8,10 +8,10 @@ meta:
 project:
   title: "Wilson Carpark Garden Bed Upgrade"
   type: "Landscape Design & Ongoing Maintenance"
-  location: Auckland
+  program: "AutoCAD, Photoshop, Indesign"
+  loca: Auckland
   year: 2022 - Ongoing
   logo: "/assets/images/projects/redpineapple/logo.png"
-  programs used: "AutoCAD, Photoshop, Indesign"
 
 images:
   - image:
