@@ -15,13 +15,10 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/redpineapple/project1_1.jpg"
+    alt: "Carpark Project 1"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/redpineapple/project1_2.jpg"
+    alt: "Carpark Project 1"
 ---
 <p>This Project aims to maintain the site's amenity and improve a temporary landscape area. The temporary landscape area will be carefully created as a clean and enjoyable space for visitors.</p>
