@@ -1,32 +1,37 @@
 ---
 layout: project
-permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "landscape design"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Landscape Design - Residential"
+  type: "Landscape Design"
+  program: "AutoCAD, Photoshop, Indesign"
+  loca: Auckland
+  year: 2023
   logo: "/assets/images/projects/greenpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Green Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/greenpineapple/project3_1.jpg" 
+    alt: "Landscape Design Site Plan"
   - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    url: "/assets/images/projects/greenpineapple/project3_2.jpg"
+    alt: "Landscape Design Hard Plan"
   - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    url: "/assets/images/projects/greenpineapple/project3_3.jpg"
+    alt: "Landscape Design Planting Plan 1"
+  - image:
+    url: "/assets/images/projects/greenpineapple/project3_4.jpg"
+    alt: "Landscape Design Planting Plan 2"
+  - image:
+    url: "/assets/images/projects/greenpineapple/project3_5.jpg"
+    alt: "Landscape Design Detailed Drawings"
+  - image:
+    url: "/assets/images/projects/greenpineapple/project3_6.jpg"
+    alt: "Landscape Design Planting Detailed"
+
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>This project involves close collaboration with the team to deliver the best outcome in landscape design. My design principle is to create an environment that is both beautiful and practical, while also enhancing privacy between neighbourhoods and offering an exceptional outdoor experience for residents.</p>
