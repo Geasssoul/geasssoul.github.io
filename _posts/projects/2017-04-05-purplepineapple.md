@@ -8,20 +8,23 @@ meta:
 project:
   title: "3D Modeling"
   type: "Illustration, Residential"
-  program: "AutoCAD, Lumion, Photoshop, Indesign"
+  program: "AutoCAD, Sketch Up, Lumion, Photoshop, Indesign"
   loca: Auckland
   year: 2022
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/purplepineapple/logo.png"
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
-    alt: "Aqua Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/purplepineapple/project5_1.jpg"
+    alt: "Landscape Design Site Plan"
   - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
-    alt: "Aqua Pineapple website on a desktop device"
+    url: "/assets/images/projects/purplepineapple/project5_2.jpg"
+    alt: "Perspective 1"
   - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
-    alt: "Aqua Pineapple website on a mobile device"
+    url: "/assets/images/projects/purplepineapple/project5_3.jpg"
+    alt: "Perspective 2"
+  - image:
+    url: "/assets/images/projects/purplepineapple/project5_4.jpg"
+    alt: "Perspective 3"
 ---
 <p>Created a 3D model and site plan for the project based on the site survey and the client's requirements. These visuals provide a conceptual representation of the design and effectively communicate the proposed ideas.</p>

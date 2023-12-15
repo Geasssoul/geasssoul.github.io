@@ -11,17 +11,20 @@ project:
   program: "AutoCAD, Photoshop, Indesign"
   loca: Auckland
   year: 2021
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/aquapineapple/logo.png"
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/aquapineapple/project4_1.jpg"
+    alt: "Landscape Design Site Plan"
   - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
+    url: "/assets/images/projects/aquapineapple/project4_2.jpg"
+    alt: "Landscape Design Hard Plan"
   - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: "/assets/images/projects/aquapineapple/project4_3.jpg"
+    alt: "Landscape Design Planting Plan 1"
+  - image:
+    url: "/assets/images/projects/aquapineapple/project4_4.jpg"
+    alt: "Landscape Design Planting Plan 2"
 ---
 <p>This project involves close collaboration with the team to deliver the best outcome in landscape design. My design principle is to create an environment that is both beautiful and practical, while also enhancing privacy between neighbourhoods and offering an exceptional outdoor experience for residents.</p>
