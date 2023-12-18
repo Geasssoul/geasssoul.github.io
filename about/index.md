@@ -109,8 +109,3 @@ permalink: /about/
             <p>Lincoln University</p>
             <br><br>
         </div>
-
-
-
-
-
