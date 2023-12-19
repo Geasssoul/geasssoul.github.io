@@ -108,4 +108,4 @@ permalink: /about/
             <p>(July 2023 – Present)</p>
             <p>Lincoln University</p>
             <br><br>
-        </div>
+</div>
