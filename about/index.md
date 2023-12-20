@@ -16,6 +16,7 @@ permalink: /about/
         My work experience in China and New Zealand has exposed me to diverse challenges and developed my creative and practical skills.
         I have a strong understanding of design principles, technical skills in various software programs and the ability to collaborate with contractors and team members.</p>
         <p>Currently, I am studying Master of Applied Computing at Lincoln University.</p>
+        <br><br>
 </div>
 <div class="container about-section">
     <div class="skills-container">
@@ -68,6 +69,7 @@ permalink: /about/
                 <span class="square square"></span>
                 <span class="square square"></span>
                 <span class="square"></span>
+                <br><br>
             </div>
         </div>
     </div>
