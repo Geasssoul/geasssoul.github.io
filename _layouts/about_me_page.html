@@ -7,13 +7,12 @@
     <meta name="keywords" content="{{ page.keywords | default: site.keywords | escape }}">
     {% include head.html %}
 </head>
-<body>
+<body class ="custom-footer-page">
     {% include header.html %}
     <main class="content-container">
-    <body class = "custom-footer-page">
-    <div class="about-content">
-        {{ content }}
-    </div>
+        <div class="about-content">
+            {{ content }}
+        </div>
     </main>
     {% include footer.html %}
     <script src="{{ "/assets/scripts/vendor/jquery-1.12.4.min.js" | prepend: site.baseurl }}"></script>

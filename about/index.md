@@ -4,6 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
+<div class="profile-container">
+    <img src="{{ site.baseurl }}/assets/images/about/me.png" alt="Profile Image" class="profile-image">
+</div>
 <div class="container about-section">
     <span class="h2">Name</span>
     <p class="about-name">Rita Chen</p>

@@ -56,6 +56,15 @@
 	}
 }
 
+.intro-text {
+	text-decoration: none; // No underline by default
+	cursor: pointer; // Changes the cursor to indicate it's clickable
+	
+	&:hover {
+	  text-decoration: underline; // Underline on hover
+	}
+  }
+
 .projects-list {
 	@media (min-width: $breakpoint-small) {
 		margin-left: -1.5rem;
@@ -345,10 +354,28 @@
 	}
 }
 
-// Add this to your _layout.scss or create a new file like _about.scss and import it into your main SCSS file.
-.about-section {
+@media (min-width: $breakpoint-medium) {
+
+	.about-section {
 	// Your section styling
-	padding: 1rem 0;
+	padding: 0 1rem;
+	}
+}
+
+	.profile-container {
+		position: relative;
+		display: flex; // This will align the image and name side by side
+		align-items: center; // This will vertically align the image with the text
+  		justify-content: flex-start; // This aligns items to the start of the container
+		right: -300px;
+		bottom: 20px; // Adds space between the image and the name
+  	}
+  
+  .profile-image {
+		width: 300px; // Use px, %, cm, etc., according to your need
+		height: 300px; // Maintain the aspect ratio or set to 'auto'
+		object-fit: cover; // Ensures the image covers the area without stretching
+  	}
 
 	.about-name {
 	  	display: block; // Ensuring the name is a block element
@@ -365,7 +392,7 @@
 	.skills-container {
 		/* Add styles for the skills container */
 		display: block; // Ensuring the name is a block element
-		margin-top: 0px; // No space above the name
+		margin-top: 20px; // No space above the name
 		margin-bottom: 20px; // Reduced space below the label
 		}
 
@@ -399,7 +426,7 @@
 
 	.about-workexperience-position {
 		display: block; // Ensuring the name is a block element
-		margin-top: 10px; // No space above the name
+		margin-top: 20px; // No space above the name
 		margin-bottom: 20px; // Reduced space below the label
 	}
 
@@ -413,7 +440,7 @@
 		margin-top: 0; // No space above the name
 		margin-bottom: 20px; // Reduced space below the label
 	}
-}
+
 
 .footer {
 	background: $color-alabaster;
