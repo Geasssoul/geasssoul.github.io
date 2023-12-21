@@ -51,12 +51,13 @@
 	@media (min-width: $breakpoint-medium) {
 		p {
 			font-size: 2.7rem;
-			max-width: 66.66666%;
+			max-width: 80%;
 		}
 	}
 }
 
 .intro-text {
+	text-align: justify;
 	text-decoration: none; // No underline by default
 	cursor: pointer; // Changes the cursor to indicate it's clickable
 	
@@ -88,7 +89,7 @@
 	}
 
 	li {
-		margin-bottom: 3rem;
+		margin-bottom: 8rem;
 
 		&:last-child {
 			margin-bottom: 0;
@@ -178,6 +179,7 @@
 	}
 
 	article {
+		text-align: justify;
 		margin-bottom: 3rem;
 
 		@media (min-width: $breakpoint-medium) {
@@ -355,27 +357,24 @@
 }
 
 @media (min-width: $breakpoint-medium) {
-
 	.about-section {
-	// Your section styling
-	padding: 0 2rem;
+	  padding: 0 2rem;
 	}
-}
+  }
+  		.profile-container {
+			position: relative;
+			display: block;
+			padding: 0 25rem;
+  		}
 
-	.profile-container {
-		position: relative;
-		display: flex; // This will align the image and name side by side
-		align-items: center; // This will vertically align the image with the text
-  		justify-content: flex-start; // This aligns items to the start of the container
-		right: -300px;
-		bottom: 20px; // Adds space between the image and the name
-  	}
-  
-  .profile-image {
-		width: 300px; // Use px, %, cm, etc., according to your need
-		height: 300px; // Maintain the aspect ratio or set to 'auto'
-		object-fit: cover; // Ensures the image covers the area without stretching
-  	}
+  		.profile-image {
+			width: 100%; /* responsive width */
+			max-width: 300px; /* maximum width */
+			height: auto; /* maintain aspect ratio */
+			object-fit: cover; /* Ensures the image covers the area without stretching */
+			margin-top: 20rem;
+    		margin-bottom: 3rem; /* Adds some space between the image and the name */
+		}
 
 	.about-name {
 	  	display: block; // Ensuring the name is a block element
@@ -385,6 +384,7 @@
 
 	.about-background {
 		display: block; // Ensuring the name is a block element
+		text-align: justify;
 		margin-top: 20px; // No space above the name
 		margin-bottom: 20px; // Reduced space below the label
 	  }
@@ -392,6 +392,7 @@
 	.skills-container {
 		/* Add styles for the skills container */
 		display: block; // Ensuring the name is a block element
+		text-align: justify;
 		margin-top: 20px; // No space above the name
 		margin-bottom: 20px; // Reduced space below the label
 		}
@@ -431,6 +432,7 @@
 	}
 
 		.respon {
+			text-align: justify;
 			margin-top: 20px;
 			margin-bottom: 20px;
 		}
