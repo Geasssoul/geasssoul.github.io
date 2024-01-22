@@ -6,5 +6,5 @@ var sr = ScrollReveal({
 	scale    : 1
 });
 
-sr.reveal('.projects-list a');
-sr.reveal('.posts-list a');
+sr.reveal('.about-section');
+sr.reveal('.profile-container');
