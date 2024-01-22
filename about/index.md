@@ -103,13 +103,13 @@ permalink: /about/
         <p>- Worked closely with the team and assisted them in the layout of the presentation document.</p>
         <br><br>
 </div>
-<span class="h2">Education</span>
-<p class="about-Education">
-    Bachelor of Landscape Architecture</p>
-<p>(March 2017 – April 2021)</p>
-<p>Unitec Institute of Technology</p>
-<br><br>
-<p>Master of Applied Computing</p>
-<p>(July 2023 – Present)</p>
-<p>Lincoln University</p>
-<br><br>
+    <span class="h2">Education</span>
+    <p class="about-Education">
+        Bachelor of Landscape Architecture</p>
+    <p>(March 2017 – April 2021)</p>
+    <p>Unitec Institute of Technology</p>
+    <br><br>
+    <p>Master of Applied Computing</p>
+    <p>(July 2023 – Present)</p>
+    <p>Lincoln University</p>
+    <br><br>
