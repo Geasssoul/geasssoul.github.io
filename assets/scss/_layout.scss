@@ -27,6 +27,35 @@
 	}
 }
 
+/* Navigation styling */
+.navbar {
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-end;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin-left: 2rem;
+}
+
+.nav-link {
+    font-size: 1em;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #ffffff; /* Change color on hover */
+}
+
 .content {
 	background: $color-white;
 	padding: 7rem 0 0;
@@ -51,7 +80,7 @@
 	@media (min-width: $breakpoint-medium) {
 		p {
 			font-size: 2.7rem;
-			max-width: 80%;
+			// max-width: 80%; // adjustment width of text
 		}
 	}
 }
