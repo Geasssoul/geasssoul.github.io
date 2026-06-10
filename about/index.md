@@ -76,7 +76,7 @@ permalink: /about/
 <div class="container about-section">
     <span class="h2">Work Experience</span>
     <p class="about-workexperience">
-        Landscape Architect - Contractor</p>
+        Landscape Architect - Contract</p>
         <p>Topland New Zealand Ltd, Auckland | March 2022 - Present</p>
         <p class = "respon">Key achievements and responsibilities:</p>
         <p>- Preparing landscape documents, such as landscape design package, detailed drawing, landscape maintenance document, and planting project program.</p>
@@ -85,7 +85,7 @@ permalink: /about/
         <p>- Assisting in site visits and providing construction administration support as required.</p>
         <br><br>
     <p class="about-workexperience">
-        Graduate Landscape Architect</p>
+        Landscape Architect - Full Time</p>
         <p>Jun Landscape Ltd, Auckland | November 2020 – July 2021</p>
         <p class = "respon">Key achievements and responsibilities:</p>
         <p>- Worked on a variety of residential projects.</p>
@@ -95,7 +95,7 @@ permalink: /about/
         <p>- Mentored interns and reviewed their works in a technical field, and always encourage and teach them.</p>
         <br><br>
     <p class="about-workexperience">
-        Landscape Architect Assistant</p>
+        Landscape Architect - Fixed Term</p>
         <p>APCE DESIGN, CO., Ltd, China | November 2018 – February 2019</p>
         <p class = "respon">Key achievements and responsibilities:</p>
         <p>- Worked closely with the team and assisted Landscape Architects in completing the works.</p>
@@ -106,12 +106,10 @@ permalink: /about/
 <div class="container about-section">
     <span class="h2">Education</span>
         <p class="about-Education">
-        Bachelor of Landscape Architecture</p>
-        <p>(March 2017 – April 2021)</p>
-        <p>Unitec Institute of Technology</p>
+        Master of Applied Computing | July 2023 – May 2025 | Distinction</p>
+        <p>Major Courses: Database Management Systems, UX Experience, Web Development and Business Analysis.</p>
         <br><br>
-        <p>Master of Applied Computing</p>
-        <p>(July 2023 – Present)</p>
-        <p>Lincoln University</p>
+        <p>Unitec Institute of Technology | March 2017 – April 2021</p>
+        <p>Major Courses: Landscape Design Principles, Graphic Software Applications, Landscape History, Māori History, Landscape Planning and Assessment, and Urban Ecology.</p>
         <br><br>
 </div>
